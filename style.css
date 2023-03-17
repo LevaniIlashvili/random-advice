@@ -9,7 +9,7 @@
 
 .container {
   background-color: hsl(218, 23%, 16%);
-  height: 100svh;
+  height: 100svh, 100dvh;
   display: flex;
   justify-content: center;
   align-items: center;
